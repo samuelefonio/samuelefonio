@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelefonio
 - 👀 I’m interested in AI and Data Science, in particular Machine learning and Deep learning.
-- 🌱 I’m a graduated student in the Master Degree in Stochastics and Data science at univeristy of Turin, Italy.
+- 🌱 I’m a PhD candidate in Modelling and Data science at the Univeristy of Turin, Italy.
 
 
 
