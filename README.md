@@ -4,7 +4,7 @@
 - 🌱 I’m a PhD student in Modeling and Data Science at the University of Turin, Italy.
 
 # Personal Page:
-https://alpha.di.unito.it/samuele-fonio/
+https://samuelefonio.github.io
 
 
 ## 🌐 Socials:
